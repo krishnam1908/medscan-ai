@@ -1,0 +1,15 @@
+{
+  "name": "medscan-ai-server",
+  "version": "1.0.0",
+  "description": "MedScan AI backend — zero-dependency prescription OCR + AI parsing, scheduling, and drug interaction checks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
